@@ -1,10 +1,8 @@
 # markov-elear
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure app that utilizes markov chains to generate text, by analysing a givent text document. Adapted to interpret German, English and Bulgarian.
 
-## Usage
-
-FIXME
+This project was heavily influenced by this guide: https://howistart.org/posts/clojure/1/index.html
 
 ## License
 
