@@ -1,8 +1,8 @@
-# markov-elear
+# markov-chain
 
 A Clojure app that utilizes markov chains to generate text, by analysing a givent text document. Adapted to interpret German, English and Bulgarian.
 
-This project was heavily influenced by this guide: https://howistart.org/posts/clojure/1/index.html
+This project was heavily influenced by the following guide: https://howistart.org/posts/clojure/1/index.html.
 
 ## License
 
